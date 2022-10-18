@@ -1,0 +1,7 @@
+ch.qos.logback logback-classic
+com.github.tomakehurst wiremock
+junit junit
+org.assertj assertj-core
+org.hamcrest hamcrest-library
+org.owasp dependency-check-maven
+org.sonatype.plugins nexus-staging-maven-plugin

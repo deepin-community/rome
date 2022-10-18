@@ -1,0 +1,10 @@
+pom.xml --has-package-version
+rome/pom.xml  --has-package-version --java-lib
+rome-certiorem/pom.xml --ignore
+rome-certiorem-webapp/pom.xml --ignore
+rome-fetcher/pom.xml --ignore
+rome-modules/pom.xml --ignore
+rome-opml/pom.xml --ignore
+rome-osgi-test/pom.xml --ignore
+rome-propono/pom.xml --ignore
+rome-utils/pom.xml --has-package-version --java-lib

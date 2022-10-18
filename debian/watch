@@ -1,0 +1,3 @@
+version=3
+opts=mode=git,repack,compression=xz \
+https://github.com/rometools/rome refs/tags/v?([\d\.]+)
